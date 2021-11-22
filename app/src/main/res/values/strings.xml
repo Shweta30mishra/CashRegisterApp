@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CashRegisterApp</string>
+    <string name="Product_Type">ProductType</string>
+    <string name="total">Total</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="clear">c</string>
+    <string name="buy">Buy</string>
+    <string name="quantity">quantity</string>
+    <string name="product_name">Product_Name</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="price">price</string>
+</resources>
